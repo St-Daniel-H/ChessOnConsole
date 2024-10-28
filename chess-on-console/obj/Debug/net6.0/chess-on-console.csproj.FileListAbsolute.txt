@@ -1,0 +1,15 @@
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\bin\Debug\net6.0\chess-on-console.exe
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\bin\Debug\net6.0\chess-on-console.deps.json
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\bin\Debug\net6.0\chess-on-console.runtimeconfig.json
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\bin\Debug\net6.0\chess-on-console.dll
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\bin\Debug\net6.0\chess-on-console.pdb
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.csproj.AssemblyReference.cache
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.AssemblyInfoInputs.cache
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.AssemblyInfo.cs
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.csproj.CoreCompileInputs.cache
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.dll
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\refint\chess-on-console.dll
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.pdb
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\chess-on-console.genruntimeconfig.cache
+C:\Users\danih\source\repos\chess-on-console\chess-on-console\obj\Debug\net6.0\ref\chess-on-console.dll
